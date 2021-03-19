@@ -1,5 +1,5 @@
 ---
-title: CuTaine
+title: CuTiane
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
